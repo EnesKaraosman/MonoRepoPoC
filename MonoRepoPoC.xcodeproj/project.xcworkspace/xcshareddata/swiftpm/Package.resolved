@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swinjector",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EnesKaraosman/Swinjector",
+      "state" : {
+        "branch" : "main",
+        "revision" : "be45d7be19f9045c678bdc188e1f6f3b986fda79"
+      }
+    }
+  ],
+  "version" : 2
+}
